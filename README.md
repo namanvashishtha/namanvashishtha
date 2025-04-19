@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&multiline=false&color=9B59B6&width=500&lines=Naman+Vashishtha+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=false&width=600&lines=Naman+Vashishtha+👋;Software+Engineer+🚀" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Software Engineer | Coding Enthusiast | Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=F39C12&center=true&width=500&height=45&lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing Intro" />
 </p>
+
 ---
 
 ## 🔥 About Me
@@ -40,11 +41,14 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naman-vashishtha-974b011a1 " target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/naman-vashishtha-974b011a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/NamanVashishtha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="mailto:namanvashi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
