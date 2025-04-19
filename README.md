@@ -40,7 +40,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/namanvashishtha" target="_blank">
+  <a href="https://www.linkedin.com/in/naman-vashishtha-974b011a1 " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/NamanVashishtha" target="_blank">
