@@ -1,37 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=false&width=600&lines=Naman+Vashishtha+👋;Software[...]">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2000&pause=1000&color=9B59B6&center=true&vCenter=true&multiline=false&width=600&lines=Naman+Vashishtha+👋;Software Engineer
 </h1>
-
-<!-- Animated Line -->
-<div align="center">
-  <div style="
-      height: 4px;
-      width: 80%;
-      background: linear-gradient(90deg, #ff6ec4, #7873f5, #4facfe, #6a11cb, #ff6ec4);
-      background-size: 400% 400%;
-      animation: gradientAnimation 6s ease infinite;
-      margin: 0 auto;
-  "></div>
-</div>
-
-<style>
-  @keyframes gradientAnimation {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-</style>
 
 <h3 align="center">💻 Software Engineer | Coding Enthusiast | Continuous Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=F39C12&center=true&width=500&height=45&lines=Full+Stack+Developer;Open+Source+Contributor;L[...]">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=F39C12&center=true&width=500&height=45&lines=Full+Stack+Developer;Open+Source+Contributor;Continuous Learner
 </p>
 
 ---
@@ -63,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </p>
+
 
 ---
 
