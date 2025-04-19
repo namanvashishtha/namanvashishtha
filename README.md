@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&color=9B59B6&width=500&lines=N...;Na...;Nam...;Nama...;Naman...;Naman+V...;Naman+Va...;Naman+Vas...;Naman+Vash...;Naman+Vashi...;Naman+Vashis...;Naman+Vashish...;Naman+Vashishth...;Naman+Vashishtha+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&multiline=false&color=9B59B6&width=500&lines=Naman+Vashishtha+👋" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Software Engineer | Coding Enthusiast | Continuous Learner</h3>
@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45" alt="Typing Intro" />
 </p>
-
 ---
 
 ## 🔥 About Me
