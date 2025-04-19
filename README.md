@@ -1,12 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Naman+Vashishtha+-+Software+Engineer" alt="Typing SVG" />
+<h1 align="center" style="font-size: 28px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Naman+Vashishtha;Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=gradient" />
-</p>
-
-<p align="center" style="font-size: 18px;">
+<p align="center" style="font-size: 20px;">
   📬 <strong>Contact:</strong> <a href="mailto:namanvashi@gmail.com">namanvashi@gmail.com</a>
 </p>
 
@@ -51,6 +47,8 @@
   <a href="https://github.com/NamanVashishtha">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
+  📬 <strong>Contact:</strong> <a href="mailto:namanvashi@gmail.com">namanvashi@gmail.com</a>
+</p>
 </p>
 
 ---
