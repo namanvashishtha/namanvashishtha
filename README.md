@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Naman+Vashishtha;Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<p align="center" style="font-size: 20px;">
-  📬 <strong>Contact:</strong> <a href="mailto:namanvashi@gmail.com">namanvashi@gmail.com</a>
+<h3 align="center">💻 Software Engineer | Coding Enthusiast | Continuous Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45" alt="Typing Intro" />
 </p>
 
 ---
