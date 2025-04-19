@@ -1,10 +1,10 @@
-<h1 align="center" style="font-size: 28px;">
+<h1 align="center" style="font-size: 32px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Naman+Vashishtha;Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Software Engineer | Coding Enthusiast | Continuous Learner</h3>
 
-<p align="center">
+
+<p align="center" style="font-size: 22px;">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45" alt="Typing Intro" />
 </p>
 
@@ -43,7 +43,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/namanvashishtha">
+  <a href="https://linkedin.com/in/naman-vashishtha-974b011a1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/NamanVashishtha">
