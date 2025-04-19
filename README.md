@@ -49,7 +49,10 @@
   <a href="https://github.com/NamanVashishtha">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
-  📬 <strong>Contact:</strong> <a href="mailto:namanvashi@gmail.com">namanvashi@gmail.com</a>
+  <a href="mailto:namanvashi@gmail.com">
+  <img src="https://img.shields.io/badge/📬%20Email-namanvashi@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 </p>
 
