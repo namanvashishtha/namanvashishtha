@@ -1,8 +1,6 @@
-<h1 align="center" style="font-size: 32px;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=9B59B6&center=true&vCenter=true&width=700&lines=Naman+Vashishtha;Software+Engineer" alt="Typing SVG" />
 </h1>
-
-
 
 <p align="center" style="font-size: 22px;">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45" alt="Typing Intro" />
@@ -40,6 +38,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamanVashishtha&show_icons=true&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVashishtha&layout=compact&theme=github_dark&hide_border=true" height="180" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -50,10 +57,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="mailto:namanvashi@gmail.com">
-  <img src="https://img.shields.io/badge/📬%20Email-namanvashi@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+    <img src="https://img.shields.io/badge/📬%20Email-namanvashi@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
