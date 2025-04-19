@@ -1,20 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&multiline=false&color=9B59B6&width=500&lines=Naman+Vashishtha+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Naman+Vashishtha+-+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💻 Software Engineer | Coding Enthusiast | Continuous Learner</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45" alt="Typing Intro" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=gradient" />
 </p>
 
+<p align="center" style="font-size: 18px;">
+  📬 <strong>Contact:</strong> <a href="mailto:namanvashi@gmail.com">namanvashi@gmail.com</a>
+</p>
 
 ---
 
 ## 🔥 About Me
 
 - 🚀 Passionate about building elegant web experiences  
-- 🎨 Love crafting interactive UIs, APIs and seamless user experiences  
+- 🎨 Love crafting interactive UIs and seamless APIs  
 - 🌱 Currently exploring **System Design** and **DevOps**  
 - 🌍 Based in India, open to remote opportunities  
 - 💬 Ask me about **React**, **Java**, and **Python**
@@ -44,11 +45,11 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/namanvashishtha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/namanvashishtha">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/NamanVashishtha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/NamanVashishtha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
