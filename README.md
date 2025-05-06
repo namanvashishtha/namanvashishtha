@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+/*
 <p align="center">
   <img 
     src="https://drive.google.com/uc?export=view&id=1eUF7yctGuTIKvqlu3p_COKHRg_ejBuLS" 
@@ -16,7 +16,7 @@
     style="max-width: 500px; height: 300px; object-fit: cover; border-radius: 4px;"
   />
 </p>
-
+*/
 
 
 ---
