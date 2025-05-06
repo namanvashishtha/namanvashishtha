@@ -8,7 +8,8 @@
 
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=1eUF7yctGuTIKvqlu3p_COKHRg_ejBuLS" alt="Project Image" />
+<img src="https://drive.google.com/uc?export=view&id=1eUF7yctGuTIKvqlu3p_COKHRg_ejBuLS" alt="Embedded Image from Drive" />
+
 
 
 ## 🔥 About Me
