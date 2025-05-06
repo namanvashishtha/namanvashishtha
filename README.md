@@ -13,7 +13,7 @@
     src="https://drive.google.com/uc?export=view&id=1eUF7yctGuTIKvqlu3p_COKHRg_ejBuLS" 
     alt="LinkedIn Banner Style Image"
     width="70%" 
-    style="max-width: 800px; height: 20px; object-fit: cover; border-radius: 4px;"
+    style="max-width: 500px; height: 200px; object-fit: cover; border-radius: 4px;"
   />
 </p>
 
