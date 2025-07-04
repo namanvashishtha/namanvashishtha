@@ -14,7 +14,7 @@
 - 🎨 Love crafting interactive UIs and seamless APIs  
 - 🌱 Currently exploring **System Design** and **DevOps**  
 - 🌍 Based in India, open to remote opportunities  
-- 💬 Ask me about **React**, **Java**, and **Python**
+- 💬 Ask me about **React**, **Java**, **Javascript** and **Python**
 
 ---
 
