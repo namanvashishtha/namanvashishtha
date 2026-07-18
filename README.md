@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://portfolio-naman-vashi.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-visit_me-F75C7E?style=for-the-badge" /></a>
+  <a href="https://namanvashishtha.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-visit_me-F75C7E?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/naman-vashishtha-974b011a1"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:namanvashi@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=namanvashishtha&style=for-the-badge&color=blueviolet&label=PROFILE+VISITS" />
