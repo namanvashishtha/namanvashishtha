@@ -42,36 +42,6 @@ const naman = {
 
 <br/>
 
-## 🏗️ Things I've Built
-
-<p align="center">
-  <a href="https://github.com/namanvashishtha/breast-cancer-ML-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namanvashishtha&repo=breast-cancer-ML-model&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/namanvashishtha/Wind-Energy-Forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namanvashishtha&repo=Wind-Energy-Forecasting&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/namanvashishtha/Simulating-LoRaWAN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namanvashishtha&repo=Simulating-LoRaWAN&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/namanvashishtha/chatting-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namanvashishtha&repo=chatting-application&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/namanvashishtha/bank-management-system-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namanvashishtha&repo=bank-management-system-&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/namanvashishtha/Linear-regression-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=namanvashishtha&repo=Linear-regression-model&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<p align="center"><i>…and 11 more experiments in the lab 🧪 — <a href="https://github.com/namanvashishtha?tab=repositories">explore them all</a></i></p>
-
-<br/>
 
 ## 📊 The Numbers Don't Lie
 
