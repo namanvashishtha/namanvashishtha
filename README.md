@@ -33,7 +33,7 @@ const naman = {
 
 <br/>
 
-## 🧰 My Arsenal
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,java,python,nodejs,express,flask&theme=dark" /><br/>
